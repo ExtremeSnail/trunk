@@ -1,0 +1,312 @@
+{
+    "android_gradle_plugin_version": "2.2.2",
+    "apk_path": "/Users/chenyaohui/Downloads/WeChatDemo-master/app/build/outputs/apk/app-debug.apk",
+    "auto_dependency": true,
+    "build_cache_dir": "/Users/chenyaohui/Downloads/WeChatDemo-master/app/build/freeline",
+    "build_directory": "/Users/chenyaohui/Downloads/WeChatDemo-master/app/build",
+    "build_script": "./gradlew :app:assembleDebug",
+    "build_script_work_directory": "",
+    "build_tools_directory": "/Users/chenyaohui/Documents/adt-bundle-mac-x86_64-20131030/sdk/build-tools/23.0.2",
+    "build_tools_version": "23.0.2",
+    "compile_sdk_directory": "/Users/chenyaohui/Documents/adt-bundle-mac-x86_64-20131030/sdk/platforms/android-23",
+    "compile_sdk_version": "android-23",
+    "databinding": [
+        
+    ],
+    "databinding_modules": [
+        
+    ],
+    "debug_package": "com.zhlt.huodong",
+    "exclude_dep_res_paths": [
+        
+    ],
+    "extra_dep_res_paths": [
+        
+    ],
+    "freeline_cache_dir": "/Users/chenyaohui/Downloads/WeChatDemo-master",
+    "freeline_gradle_plugin_version": "0.8.4",
+    "java_home": "/Library/Java/JavaVirtualMachines/jdk1.8.0_25.jdk/Contents/Home",
+    "launcher": "com.zhlt.huodong.ui.MainActivity",
+    "main_assets_directory": [
+        "/Users/chenyaohui/Downloads/WeChatDemo-master/app/src/debug/assets",
+        "/Users/chenyaohui/Downloads/WeChatDemo-master/app/src/main/assets"
+    ],
+    "main_jniLibs_directory": [
+        "/Users/chenyaohui/Downloads/WeChatDemo-master/app/src/debug/jniLibs",
+        "/Users/chenyaohui/Downloads/WeChatDemo-master/app/src/main/jniLibs"
+    ],
+    "main_jni_directory": [
+        "/Users/chenyaohui/Downloads/WeChatDemo-master/app/src/debug/jni",
+        "/Users/chenyaohui/Downloads/WeChatDemo-master/app/src/main/jni"
+    ],
+    "main_manifest_path": "/Users/chenyaohui/Downloads/WeChatDemo-master/app/src/main/AndroidManifest.xml",
+    "main_project_dir": "app",
+    "main_project_name": "app",
+    "main_r_path": "/Users/chenyaohui/Downloads/WeChatDemo-master/app/build/generated/source/r/debug/R.java",
+    "main_res_directory": [
+        "/Users/chenyaohui/Downloads/WeChatDemo-master/app/src/debug/res",
+        "/Users/chenyaohui/Downloads/WeChatDemo-master/app/src/main/res"
+    ],
+    "main_src_directory": [
+        "/Users/chenyaohui/Downloads/WeChatDemo-master/app/src/debug/java",
+        "/Users/chenyaohui/Downloads/WeChatDemo-master/app/src/main/java"
+    ],
+    "module_dependencies": {
+        "PhotoPicker": [
+            
+        ],
+        "app": [
+            "fragmentutil",
+            "imagescanner",
+            "radarview",
+            "randomtextview",
+            "rippleview",
+            "PhotoPicker",
+            "videoplayermanager"
+        ],
+        "fragmentutil": [
+            
+        ],
+        "imagescanner": [
+            
+        ],
+        "radarview": [
+            
+        ],
+        "randomtextview": [
+            "rippleview"
+        ],
+        "rippleview": [
+            
+        ],
+        "videoplayermanager": [
+            
+        ]
+    },
+    "modules": [
+        {
+            "name": "app",
+            "path": "/Users/chenyaohui/Downloads/WeChatDemo-master/app"
+        },
+        {
+            "name": "fragmentutil",
+            "path": "/Users/chenyaohui/Downloads/WeChatDemo-master/fragmentutil"
+        },
+        {
+            "name": "imagescanner",
+            "path": "/Users/chenyaohui/Downloads/WeChatDemo-master/imagescanner"
+        },
+        {
+            "name": "radarview",
+            "path": "/Users/chenyaohui/Downloads/WeChatDemo-master/radarview"
+        },
+        {
+            "name": "randomtextview",
+            "path": "/Users/chenyaohui/Downloads/WeChatDemo-master/randomtextview"
+        },
+        {
+            "name": "rippleview",
+            "path": "/Users/chenyaohui/Downloads/WeChatDemo-master/rippleview"
+        },
+        {
+            "name": "PhotoPicker",
+            "path": "/Users/chenyaohui/Downloads/WeChatDemo-master/PhotoPicker"
+        },
+        {
+            "name": "videoplayermanager",
+            "path": "/Users/chenyaohui/Downloads/WeChatDemo-master/videoplayermanager"
+        }
+    ],
+    "package": "com.zhlt.huodong",
+    "product_flavor": "",
+    "project_source_sets": {
+        "PhotoPicker": {
+            "main_assets_directory": [
+                "/Users/chenyaohui/Downloads/WeChatDemo-master/PhotoPicker/src/release/assets",
+                "/Users/chenyaohui/Downloads/WeChatDemo-master/PhotoPicker/src/main/assets"
+            ],
+            "main_jniLibs_directory": [
+                "/Users/chenyaohui/Downloads/WeChatDemo-master/PhotoPicker/src/release/jniLibs",
+                "/Users/chenyaohui/Downloads/WeChatDemo-master/PhotoPicker/src/main/jniLibs"
+            ],
+            "main_jni_directory": [
+                "/Users/chenyaohui/Downloads/WeChatDemo-master/PhotoPicker/src/release/jni",
+                "/Users/chenyaohui/Downloads/WeChatDemo-master/PhotoPicker/src/main/jni"
+            ],
+            "main_manifest_path": "/Users/chenyaohui/Downloads/WeChatDemo-master/PhotoPicker/src/main/AndroidManifest.xml",
+            "main_res_directory": [
+                "/Users/chenyaohui/Downloads/WeChatDemo-master/PhotoPicker/src/release/res",
+                "/Users/chenyaohui/Downloads/WeChatDemo-master/PhotoPicker/src/main/res"
+            ],
+            "main_src_directory": [
+                "/Users/chenyaohui/Downloads/WeChatDemo-master/PhotoPicker/src/release/java",
+                "/Users/chenyaohui/Downloads/WeChatDemo-master/PhotoPicker/src/main/java"
+            ]
+        },
+        "app": {
+            "main_assets_directory": [
+                "/Users/chenyaohui/Downloads/WeChatDemo-master/app/src/debug/assets",
+                "/Users/chenyaohui/Downloads/WeChatDemo-master/app/src/main/assets"
+            ],
+            "main_jniLibs_directory": [
+                "/Users/chenyaohui/Downloads/WeChatDemo-master/app/src/debug/jniLibs",
+                "/Users/chenyaohui/Downloads/WeChatDemo-master/app/src/main/jniLibs"
+            ],
+            "main_jni_directory": [
+                "/Users/chenyaohui/Downloads/WeChatDemo-master/app/src/debug/jni",
+                "/Users/chenyaohui/Downloads/WeChatDemo-master/app/src/main/jni"
+            ],
+            "main_manifest_path": "/Users/chenyaohui/Downloads/WeChatDemo-master/app/src/main/AndroidManifest.xml",
+            "main_res_directory": [
+                "/Users/chenyaohui/Downloads/WeChatDemo-master/app/src/debug/res",
+                "/Users/chenyaohui/Downloads/WeChatDemo-master/app/src/main/res"
+            ],
+            "main_src_directory": [
+                "/Users/chenyaohui/Downloads/WeChatDemo-master/app/src/debug/java",
+                "/Users/chenyaohui/Downloads/WeChatDemo-master/app/src/main/java"
+            ]
+        },
+        "fragmentutil": {
+            "main_assets_directory": [
+                "/Users/chenyaohui/Downloads/WeChatDemo-master/fragmentutil/src/release/assets",
+                "/Users/chenyaohui/Downloads/WeChatDemo-master/fragmentutil/src/main/assets"
+            ],
+            "main_jniLibs_directory": [
+                "/Users/chenyaohui/Downloads/WeChatDemo-master/fragmentutil/src/release/jniLibs",
+                "/Users/chenyaohui/Downloads/WeChatDemo-master/fragmentutil/src/main/jniLibs"
+            ],
+            "main_jni_directory": [
+                "/Users/chenyaohui/Downloads/WeChatDemo-master/fragmentutil/src/release/jni",
+                "/Users/chenyaohui/Downloads/WeChatDemo-master/fragmentutil/src/main/jni"
+            ],
+            "main_manifest_path": "/Users/chenyaohui/Downloads/WeChatDemo-master/fragmentutil/src/main/AndroidManifest.xml",
+            "main_res_directory": [
+                "/Users/chenyaohui/Downloads/WeChatDemo-master/fragmentutil/src/release/res",
+                "/Users/chenyaohui/Downloads/WeChatDemo-master/fragmentutil/src/main/res"
+            ],
+            "main_src_directory": [
+                "/Users/chenyaohui/Downloads/WeChatDemo-master/fragmentutil/src/release/java",
+                "/Users/chenyaohui/Downloads/WeChatDemo-master/fragmentutil/src/main/java"
+            ]
+        },
+        "imagescanner": {
+            "main_assets_directory": [
+                "/Users/chenyaohui/Downloads/WeChatDemo-master/imagescanner/src/release/assets",
+                "/Users/chenyaohui/Downloads/WeChatDemo-master/imagescanner/src/main/assets"
+            ],
+            "main_jniLibs_directory": [
+                "/Users/chenyaohui/Downloads/WeChatDemo-master/imagescanner/src/release/jniLibs",
+                "/Users/chenyaohui/Downloads/WeChatDemo-master/imagescanner/src/main/jniLibs"
+            ],
+            "main_jni_directory": [
+                "/Users/chenyaohui/Downloads/WeChatDemo-master/imagescanner/src/release/jni",
+                "/Users/chenyaohui/Downloads/WeChatDemo-master/imagescanner/src/main/jni"
+            ],
+            "main_manifest_path": "/Users/chenyaohui/Downloads/WeChatDemo-master/imagescanner/src/main/AndroidManifest.xml",
+            "main_res_directory": [
+                "/Users/chenyaohui/Downloads/WeChatDemo-master/imagescanner/src/release/res",
+                "/Users/chenyaohui/Downloads/WeChatDemo-master/imagescanner/src/main/res"
+            ],
+            "main_src_directory": [
+                "/Users/chenyaohui/Downloads/WeChatDemo-master/imagescanner/src/release/java",
+                "/Users/chenyaohui/Downloads/WeChatDemo-master/imagescanner/src/main/java"
+            ]
+        },
+        "radarview": {
+            "main_assets_directory": [
+                "/Users/chenyaohui/Downloads/WeChatDemo-master/radarview/src/release/assets",
+                "/Users/chenyaohui/Downloads/WeChatDemo-master/radarview/src/main/assets"
+            ],
+            "main_jniLibs_directory": [
+                "/Users/chenyaohui/Downloads/WeChatDemo-master/radarview/src/release/jniLibs",
+                "/Users/chenyaohui/Downloads/WeChatDemo-master/radarview/src/main/jniLibs"
+            ],
+            "main_jni_directory": [
+                "/Users/chenyaohui/Downloads/WeChatDemo-master/radarview/src/release/jni",
+                "/Users/chenyaohui/Downloads/WeChatDemo-master/radarview/src/main/jni"
+            ],
+            "main_manifest_path": "/Users/chenyaohui/Downloads/WeChatDemo-master/radarview/src/main/AndroidManifest.xml",
+            "main_res_directory": [
+                "/Users/chenyaohui/Downloads/WeChatDemo-master/radarview/src/release/res",
+                "/Users/chenyaohui/Downloads/WeChatDemo-master/radarview/src/main/res"
+            ],
+            "main_src_directory": [
+                "/Users/chenyaohui/Downloads/WeChatDemo-master/radarview/src/release/java",
+                "/Users/chenyaohui/Downloads/WeChatDemo-master/radarview/src/main/java"
+            ]
+        },
+        "randomtextview": {
+            "main_assets_directory": [
+                "/Users/chenyaohui/Downloads/WeChatDemo-master/randomtextview/src/release/assets",
+                "/Users/chenyaohui/Downloads/WeChatDemo-master/randomtextview/src/main/assets"
+            ],
+            "main_jniLibs_directory": [
+                "/Users/chenyaohui/Downloads/WeChatDemo-master/randomtextview/src/release/jniLibs",
+                "/Users/chenyaohui/Downloads/WeChatDemo-master/randomtextview/src/main/jniLibs"
+            ],
+            "main_jni_directory": [
+                "/Users/chenyaohui/Downloads/WeChatDemo-master/randomtextview/src/release/jni",
+                "/Users/chenyaohui/Downloads/WeChatDemo-master/randomtextview/src/main/jni"
+            ],
+            "main_manifest_path": "/Users/chenyaohui/Downloads/WeChatDemo-master/randomtextview/src/main/AndroidManifest.xml",
+            "main_res_directory": [
+                "/Users/chenyaohui/Downloads/WeChatDemo-master/randomtextview/src/release/res",
+                "/Users/chenyaohui/Downloads/WeChatDemo-master/randomtextview/src/main/res"
+            ],
+            "main_src_directory": [
+                "/Users/chenyaohui/Downloads/WeChatDemo-master/randomtextview/src/release/java",
+                "/Users/chenyaohui/Downloads/WeChatDemo-master/randomtextview/src/main/java"
+            ]
+        },
+        "rippleview": {
+            "main_assets_directory": [
+                "/Users/chenyaohui/Downloads/WeChatDemo-master/rippleview/src/release/assets",
+                "/Users/chenyaohui/Downloads/WeChatDemo-master/rippleview/src/main/assets"
+            ],
+            "main_jniLibs_directory": [
+                "/Users/chenyaohui/Downloads/WeChatDemo-master/rippleview/src/release/jniLibs",
+                "/Users/chenyaohui/Downloads/WeChatDemo-master/rippleview/src/main/jniLibs"
+            ],
+            "main_jni_directory": [
+                "/Users/chenyaohui/Downloads/WeChatDemo-master/rippleview/src/release/jni",
+                "/Users/chenyaohui/Downloads/WeChatDemo-master/rippleview/src/main/jni"
+            ],
+            "main_manifest_path": "/Users/chenyaohui/Downloads/WeChatDemo-master/rippleview/src/main/AndroidManifest.xml",
+            "main_res_directory": [
+                "/Users/chenyaohui/Downloads/WeChatDemo-master/rippleview/src/release/res",
+                "/Users/chenyaohui/Downloads/WeChatDemo-master/rippleview/src/main/res"
+            ],
+            "main_src_directory": [
+                "/Users/chenyaohui/Downloads/WeChatDemo-master/rippleview/src/release/java",
+                "/Users/chenyaohui/Downloads/WeChatDemo-master/rippleview/src/main/java"
+            ]
+        },
+        "videoplayermanager": {
+            "main_assets_directory": [
+                "/Users/chenyaohui/Downloads/WeChatDemo-master/videoplayermanager/src/release/assets",
+                "/Users/chenyaohui/Downloads/WeChatDemo-master/videoplayermanager/src/main/assets"
+            ],
+            "main_jniLibs_directory": [
+                "/Users/chenyaohui/Downloads/WeChatDemo-master/videoplayermanager/src/release/jniLibs",
+                "/Users/chenyaohui/Downloads/WeChatDemo-master/videoplayermanager/src/main/jniLibs"
+            ],
+            "main_jni_directory": [
+                "/Users/chenyaohui/Downloads/WeChatDemo-master/videoplayermanager/src/release/jni",
+                "/Users/chenyaohui/Downloads/WeChatDemo-master/videoplayermanager/src/main/jni"
+            ],
+            "main_manifest_path": "/Users/chenyaohui/Downloads/WeChatDemo-master/videoplayermanager/src/main/AndroidManifest.xml",
+            "main_res_directory": [
+                "/Users/chenyaohui/Downloads/WeChatDemo-master/videoplayermanager/src/release/res",
+                "/Users/chenyaohui/Downloads/WeChatDemo-master/videoplayermanager/src/main/res"
+            ],
+            "main_src_directory": [
+                "/Users/chenyaohui/Downloads/WeChatDemo-master/videoplayermanager/src/release/java",
+                "/Users/chenyaohui/Downloads/WeChatDemo-master/videoplayermanager/src/main/java"
+            ]
+        }
+    },
+    "project_type": "gradle",
+    "root_dir": "/Users/chenyaohui/Downloads/WeChatDemo-master",
+    "sdk_directory": "/Users/chenyaohui/Documents/adt-bundle-mac-x86_64-20131030/sdk",
+    "use_jdk8": true
+}
